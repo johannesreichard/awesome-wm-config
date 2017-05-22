@@ -41,7 +41,7 @@ local key_k = "r"
 local key_l = "t"
 local key_u = "h"
 
-
+naughty.config.defaults.icon_size = 32
 
 -- {{{ Error handling
 -- @DOC_ERROR_HANDLING@
