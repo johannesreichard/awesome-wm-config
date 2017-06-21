@@ -5,7 +5,6 @@
 --  /   requirements:                                               /
 --  /   - urxvt                                                     /
 --  /   - slock                                                     /
---  /   - unclutter                                                 /
 --  /                                                               /
 --  /   - scratch <git.sysphere.org/awesome-configs/>               /
 --  /                                                               /
